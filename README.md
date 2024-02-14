@@ -1,7 +1,7 @@
 # Market-Basket-Analysis
 
 ## Project Overview
-This project aims to analyze historical data of client receipts to identify items frequently and rarely sold together. By examining transactional data, I uncover patterns that could inform product placement, marketing strategies, and inventory management. The analysis is implemented using Python and various data analysis libraries. The data comes from the H&M Kaggle competition:  https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations/overview
+This project aims to analyze historical data of client receipts to identify items frequently and rarely sold together. By examining transactional data, I uncover patterns that could inform product placement, marketing strategies, and inventory management. The analysis is implemented using Python and various data analysis libraries. 
 
 ## Objective
 The primary goal is to derive actionable insights on which items are often purchased together and which are seldom paired, facilitating strategic decisions in product bundling, cross-selling opportunities, and enhancing the shopping experience.
@@ -13,7 +13,7 @@ The primary goal is to derive actionable insights on which items are often purch
 - **NetworkX**: For creating and visualizing networks of item pairs.
 
 ## Technical Problem Definition
-- **Data Source**: (https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations/overview)
+- **Data Source**: The data comes from the H&M Kaggle competition:  https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations/overview
 - **Key Metrics**:
   Where Support is defined as the proportion of transactions containing a certain item set:
     - **Lift** = Support(A&B) / Support(A)*Support(B)
