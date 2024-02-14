@@ -13,12 +13,12 @@ The primary goal is to derive actionable insights on which items are often purch
 - **NetworkX**: For creating and visualizing networks of item pairs.
 
 ## Technical Problem Definition
-- **Data Source**: The data comes from the H&M Kaggle competition:  https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations/overview
+- **Objective**: Identify item pairs with high support, lift, and leverage as indicators of frequent co-purchase, and item pairs with low values in these metrics to identify rare combinations.
 - **Key Metrics**:
   Where Support is defined as the proportion of transactions containing a certain item set:
     - **Lift** = Support(A&B) / Support(A)*Support(B)
     - **Leverage** = Support(A&B) - Support(A)*Support(B)
-- **Objective**: Identify item pairs with high support, lift, and leverage as indicators of frequent co-purchase, and item pairs with low values in these metrics to identify rare combinations.
+- **Data Source**: The data comes from the H&M Kaggle competition:  https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations/overview
 
 ## Methodology
 
