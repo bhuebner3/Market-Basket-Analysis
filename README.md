@@ -53,6 +53,20 @@ other.
 ![high_freq](https://github.com/bhuebner3/Market-Basket-Analysis/assets/73898316/a8a04e19-a21a-45a2-abc8-916f7c370f3a)
 
 
+#### **High Leverage Pairs** 
+Strategy: These sections have items are
+frequently sold together, and are also
+popular sections.
+- Optimize Store Layout: Place
+these sections close to each
+other.
+- Discounting One Item:
+Discount one of these sections,
+but not the other. Customers are
+probably willing to pay full price to
+‘complete’ the pair
+
+![High_leverage](https://github.com/bhuebner3/Market-Basket-Analysis/assets/73898316/28d65911-bf2f-4228-bde1-f3dd01557fbc)
 
 
 #### **Low Lift Pairs**
