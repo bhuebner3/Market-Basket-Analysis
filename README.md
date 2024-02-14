@@ -39,6 +39,25 @@ The primary goal is to derive actionable insights on which items are often purch
 - Filtered the association rules to focus on item pairs, analyzing the most and least frequent pairs based on lift and leverage.
 - Visualized the relationships between item pairs using network graphs to illustrate items often and rarely sold together.
 
+**High Lift Pairs** 
+![high_freq](https://github.com/bhuebner3/Market-Basket-Analysis/assets/73898316/a8a04e19-a21a-45a2-abc8-916f7c370f3a)
+Strategy:
+These sections have items that are
+frequently sold together, but not the
+most popular items.
+● Bundling Products - Bundling
+these sections could help raise
+interest/sales.
+● Optimize Store Layout - Place
+these sections close to each
+other. 
+
+
+
+**Low Lift Pairs**
+![low_freq](https://github.com/bhuebner3/Market-Basket-Analysis/assets/73898316/3a5d1caa-9505-4354-a602-35162c51efa7)
+
+
 ## Key Findings
 - Identified the most frequently bought item pairs, highlighting opportunities for cross-selling and product placement optimization.
 - Discovered item pairs that are rarely or never bought together, indicating potential areas for marketing interventions or inventory adjustments.
