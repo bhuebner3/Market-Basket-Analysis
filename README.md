@@ -40,17 +40,18 @@ The primary goal is to derive actionable insights on which items are often purch
 - Visualized the relationships between item pairs using network graphs to illustrate items often and rarely sold together.
 
 **High Lift Pairs** 
-![high_freq](https://github.com/bhuebner3/Market-Basket-Analysis/assets/73898316/a8a04e19-a21a-45a2-abc8-916f7c370f3a)
-Strategy:
-These sections have items that are
+Strategy: These sections have items that are
 frequently sold together, but not the
 most popular items.
-● Bundling Products - Bundling
+- Bundling Products - Bundling
 these sections could help raise
 interest/sales.
-● Optimize Store Layout - Place
+- Optimize Store Layout - Place
 these sections close to each
 other. 
+
+![high_freq](https://github.com/bhuebner3/Market-Basket-Analysis/assets/73898316/a8a04e19-a21a-45a2-abc8-916f7c370f3a)
+
 
 
 
